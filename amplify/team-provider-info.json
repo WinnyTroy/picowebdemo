@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-picoweb-dev-165957-authRole",
+      "UnauthRoleArn": "arn:aws:iam::770467474752:role/amplify-picoweb-dev-165957-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::770467474752:role/amplify-picoweb-dev-165957-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-picoweb-dev-165957-deployment",
+      "UnauthRoleName": "amplify-picoweb-dev-165957-unauthRole",
+      "StackName": "amplify-picoweb-dev-165957",
+      "StackId": "arn:aws:cloudformation:us-east-1:770467474752:stack/amplify-picoweb-dev-165957/ee692bf0-7866-11ec-8e6e-0a8af59cc9c7",
+      "AmplifyAppId": "d1u63hdg0h4y76"
+    }
+  }
+}
